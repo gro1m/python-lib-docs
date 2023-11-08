@@ -10,3 +10,4 @@ URLs:
 - <https://packaging.python.org/en/latest/tutorials/packaging-projects/> (PyPA > Python Packaging User Guide > Tutorials > Packaging Python Projects)
 - <https://peps.python.org/pep-0517/> (PEP 517 – A build-system independent format for source trees)
 - <https://peps.python.org/pep-0518/> (PEP 518 – Specifying Minimum Build System Requirements for Python Projects)
+- <https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/>
