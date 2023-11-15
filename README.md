@@ -19,3 +19,6 @@
 - <https://realpython.com/python-import/>
 - <https://realpython.com/absolute-vs-relative-python-imports/>
 - <https://realpython.com/python-zip-import/>
+
+  ## Package Managers
+  - <https://alpopkes.com/posts/python/packaging_tools/>
